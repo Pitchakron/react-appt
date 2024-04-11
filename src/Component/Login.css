@@ -1,0 +1,34 @@
+label{
+    display: inline-block;
+    margin: 10px 0;
+}
+
+input{
+    border: 1px solid #dedede;
+    border-radius: 2px;
+    font-size: 16px;
+    padding: 10px;
+    width: 60%;
+    margin: 10px 40px;
+}
+
+.LoginWin{
+    border: 1px solid rebeccapurple;
+    width: 500px;
+    height: 250px;
+    margin: 10px 0;
+    padding: 30px;
+    text-decoration: solid;
+}
+
+h1{
+    text-align: center;
+}
+
+.btn{
+    display: block;
+    cursor: pointer;
+    margin: 10px 50% 30px;
+    padding: 10px;
+    font-size: 16px;
+}

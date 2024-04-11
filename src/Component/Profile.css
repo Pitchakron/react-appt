@@ -1,0 +1,63 @@
+#adbox{
+    width: 1000px;
+    height: 250px;
+}
+
+h1{
+    text-align: center;
+}
+
+.ProfileData label{
+    display: inline-block;
+    margin: 10px 0;
+}
+
+.ProfileData input{
+    border: 1px solid #dedede;
+    border-radius: 2px;
+    font-size: 16px;
+    padding: 10px;
+    width: 100%;
+    margin: 10px 0px;
+}
+
+.ProfileData .ubtn{
+    display: block;
+    cursor: pointer;
+    margin: 10px 50% 30px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+
+.ProfileData{
+    float: left;
+    width: 500px;
+    padding: 30px;
+    border: 2px solid purple;
+}
+
+.ProfilePic{
+    float: right;
+    width: 500px;
+    padding: 10px;
+    border: 2px solid red;
+    margin-left: 100px;
+}
+
+.ProfilePic img{
+    width: 150px;
+    height: 150px;
+    align-items: center;
+    margin-left: 30%;
+}
+
+.ProfilePic input{
+    border: 1px solid #dedede;
+    border-radius: 2px;
+    font-size: 16px;
+    padding: 10px;
+    width: 100%;
+    margin: 10px 0px;
+    height: 150px;
+}
